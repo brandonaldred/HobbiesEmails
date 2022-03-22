@@ -254,7 +254,7 @@ function buildNewsletter () {
                                                                     href="${link1}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
@@ -316,7 +316,7 @@ function buildNewsletter () {
                                                                     href="${link2}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
@@ -396,7 +396,7 @@ function buildNewsletter () {
                                                                     href="${link3}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
@@ -458,7 +458,7 @@ function buildNewsletter () {
                                                                     href="${link4}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
@@ -538,7 +538,7 @@ function buildNewsletter () {
                                                                     href="${link5}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
@@ -600,7 +600,7 @@ function buildNewsletter () {
                                                                     href="${link6}"
                                                                     style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0073b1;border-radius:4px;width:auto;border-top:1px solid #0073b1;border-right:1px solid #0073b1;border-bottom:1px solid #0073b1;border-left:1px solid #0073b1;padding-top:08px;padding-bottom:8px;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"
                                                                     target="_blank"><span
-                                                                        style="padding-left:52px;padding-right:52px;font-size:16px;display:inline-block;letter-spacing:normal;"><span
+                                                                        style="padding-left:72px;padding-right:72px;font-size:21px;font-weight:600;display:inline-block;letter-spacing:normal;"><span
                                                                             style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">Shop
                                                                             Now</span></span></a>
                                                                 <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
