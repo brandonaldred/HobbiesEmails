@@ -57,3 +57,17 @@ input:last-of-type {
     background: #243746;
     cursor: pointer;
 }
+
+.get-code-button {
+    width: 100%;
+    margin:  15px auto;
+    border-radius: 5px;
+    text-align: center;
+    color: #243746;
+    padding: 15px 20px;
+    border: solid 1px #243746;
+}
+
+.get-code-button:hover {
+    cursor: pointer;
+}
