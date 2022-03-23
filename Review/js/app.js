@@ -5,6 +5,15 @@ buildButton.addEventListener('click',() => {
     let object = getItem(model);
 });
 
+const copyCodeButton = document.createElement('DIV');
+copyCodeButton.setAttribute('class','get-code-button');
+copyCodeButton.textContent = 'Copy Code to Clipboard';
+builderSection.appendChild(copyCodeButton);
+
+copyCodeButton.addEventListener('click', () => {
+    const code = document.getElementById('newsletter-built').innerHTML;
+    navigator.clipboard.writeText(code);
+});
 
 
 async function getItem(model) {
