@@ -139,7 +139,7 @@ function buildHTML (object) {
                                                         <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px;line-height:0px;"><td style="padding-right: 0px; padding-left: 0px;" align="center"><![endif]-->
                                                         <a href="${object.Url}/review" target="_blank">
                                                             <img class="center  autowidth " align="center" border="0"
-                                                                src="https://resumate.com/wp-content/uploads/2016/05/five-stars-300x70.png"
+                                                                src="https://images.amain.com/images/five-stars-300x70.png"
                                                                 alt="Image" title="Image"
                                                                 style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 100%;max-width: 300px"
                                                                 width="300">
@@ -175,7 +175,7 @@ function buildHTML (object) {
                                                                     <span
                                                                         style="font-size: 26px; line-height: 31px;"><strong>We
                                                                             Want To Hear About Your New
-                                                                            Kit!</strong></span></p>
+                                                                            Purchase!</strong></span></p>
                                                             </div>
                                                         </div>
                                                         <!--[if mso]></td></tr></table><![endif]-->
