@@ -144,7 +144,7 @@ function buildNewsletter () {
                                                     <tr>
                                                         <td style="width:100%;text-align:center;">
                                                             <h1
-                                                                style="margin: 0; color: #0073b1; font-size: 51px; font-family: Verdana, Geneva, sans-serif; line-height: 120%; text-align: center; direction: ltr; font-weight: 700; letter-spacing: normal; margin-top: 0; margin-bottom: 0;">
+                                                                style="margin: 0; color: #0073b1 !important; font-size: 51px; font-family: Verdana, Geneva, sans-serif; line-height: 120%; text-align: center; direction: ltr; font-weight: 700; letter-spacing: normal; margin-top: 0; margin-bottom: 0;">
                                                                 <span class="tinyMce-placeholder">RECENTLY
                                                                     ADDED</span></h1>
                                                         </td>
